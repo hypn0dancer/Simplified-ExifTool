@@ -18,4 +18,5 @@ Move the [batch script](https://github.com/hypn0dancer/Simplified-ExifTool/relea
 
 Open the [batch script](https://github.com/hypn0dancer/Simplified-ExifTool/releases/download/1.0/Simplified-ExifTool.bat) and enter a name for the image OR
 Drag & Drop the image in Command Prompt and press Enter
+
 ![hippo](https://hostsupernew.onlineconverter.com/file/4240c54463063a3195ec0a3a71b06187c1/download)
