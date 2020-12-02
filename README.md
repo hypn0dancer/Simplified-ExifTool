@@ -16,11 +16,6 @@ Download the latest version of [Simplified ExifTool](https://github.com/hypn0dan
 
 Move the [batch script](https://github.com/hypn0dancer/Simplified-ExifTool/releases/download/1.0/Simplified-ExifTool.bat) to the **exiftool** folder
 
-Open the [batch script](https://github.com/hypn0dancer/Simplified-ExifTool/releases/download/1.0/Simplified-ExifTool.bat) and enter a name for the image
-
-## Note:
-
-The image must be in the same folder with **exiftool** and **Simplified ExifTool**
-
-
-
+Open the [batch script](https://github.com/hypn0dancer/Simplified-ExifTool/releases/download/1.0/Simplified-ExifTool.bat) and enter a name for the image OR
+Drag & Drop the image in Command Prompt and press Enter
+![hippo](https://hostsupernew.onlineconverter.com/file/4240c54463063a3195ec0a3a71b06187c1/download)
