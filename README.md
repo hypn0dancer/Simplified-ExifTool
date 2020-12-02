@@ -1,4 +1,3 @@
-# Simplified-ExifTool
 ![alt text](https://i.imgur.com/kmI1HCV.png)
 
 ☁ This is a script that makes it easy to remove metadata from images.
