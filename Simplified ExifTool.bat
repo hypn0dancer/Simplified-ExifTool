@@ -4,7 +4,6 @@ set author=hypnodancer
 set name=Simplified ExifTool
 set version=1.0
 
-
 title %name% %version%
 
 echo This script was made by %author%
