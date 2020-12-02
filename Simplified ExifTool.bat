@@ -11,6 +11,6 @@ echo %name%
 echo Version: %version%
 echo.
 
-set /P image=Enter image name with extension (e.g street.jpg): 
+set /P image=Enter image name with extension (e.g street.jpg) or Drag and Drop your image here: 
 rem # You can change the arguments to whatever you need
 exiftool -all:all= -tagsfromfile @ -exif:Orientation %image%
